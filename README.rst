@@ -52,11 +52,11 @@ ZPlug_
 
     zplug "MichaelAquilina/zsh-auto-notify"
 
-Antigen_
+Antidote_
 
 ::
 
-    antigen bundle "MichaelAquilina/zsh-auto-notify"
+    antidote bundle "MichaelAquilina/zsh-auto-notify"
 
 Zgen_
 
