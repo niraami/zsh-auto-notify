@@ -255,7 +255,7 @@ NOTE: It is required that you use a minimum zunit version of 0.8.2
 
 .. _Zplug: https://github.com/zplug/zplug
 
-.. _Antigen: https://github.com/zsh-users/antigen
+.. _Antidote: https://antidote.sh/
 
 .. _ZGen: https://github.com/tarjoilija/zgen
 
